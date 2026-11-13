@@ -18,7 +18,6 @@ bez ciężkich page-builderów, z naciskiem na wydajność — a **kod zostaje w
 | [biotarget](https://github.com/talarowski-dev/biotarget) | sklep eko/bio + superfoods (WooCommerce) | [biotarget.talarowski.dev](https://biotarget.talarowski.dev) |
 | [fitnessworld](https://github.com/talarowski-dev/fitnessworld) | sklep + strona klubu fitness (karnety) | [fitnessworld.talarowski.dev](https://fitnessworld.talarowski.dev) |
 | [profesjonalia](https://github.com/talarowski-dev/profesjonalia) | sklep hurtowy B2B kosmetyki profesjonalnej: progi ilościowe, grupy rabatowe, ceny brutto i netto (statyk) | [profesjonalia.talarowski.dev](https://profesjonalia.talarowski.dev/) |
-| [instalacje-dworzynski](https://github.com/talarowski-dev/instalacje-dworzynski) | wizytówka elektryka (WordPress) | [ielektro68.talarowski.dev](https://ielektro68.talarowski.dev) |
 | [marszruta](https://github.com/talarowski-dev/marszruta) | strona marki osobistej eksperta: blog, newsletter beehiiv, dane strukturalne (WordPress) | [marszruta.talarowski.dev](https://marszruta.talarowski.dev) |
 | [iteracja](https://github.com/talarowski-dev/iteracja) | podstrona warsztatu: program w blokach godzinowych, terminy, zapisy (WordPress) | [iteracja.talarowski.dev](https://iteracja.talarowski.dev) |
 | [ewiden](https://github.com/talarowski-dev/ewiden) | makieta strony B2B partnera ERP: obszary systemu i branże jako osobne adresy, schemat przepływu danych (WordPress) | [ewiden.talarowski.dev](https://ewiden.talarowski.dev/) |
